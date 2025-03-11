@@ -4,12 +4,16 @@ Cloud Engineer and Linux Administrator with two years of experience, focused on 
 
 ## Technical Skills 💻
 
-- Python,  Javascript
-- AWS Certified DevOps Engineer - Professional
+- Python
+- AWS Certified DevOps Engineer - Professional (Currently Studying)
 - AWS Certified Developer - Associate
 - AWS Certified Solutions Architect - Associate
 - AWS Certified Cloud Practitioner
 - Microsoft Azure Fundamentals (AZ-900)
 - Linux, Ubuntu, Red Hat
-- HTML, CSS
+- Bash Scripting
+- HTML, CSS, Javascript
 - Git, CI/CD
+- Docker
+- Kubernetes
+- Terraform
