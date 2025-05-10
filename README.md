@@ -1,8 +1,8 @@
 # Hi, I’m Robert 👋
 
-### 🚀 Senior Cloud Infrastructure Engineer | DevOps Enthusiast
+### 🚀 Senior Cloud Infrastructure Engineer | DevOps Engineer | Linux System Administrator
 
-I’m a **Senior Cloud Infrastructure Engineer** at Accenture in Bratislava, with **over 2 years** of hands-on experience building and automating scalable cloud platforms. I love turning manual workflows into clean, self-service APIs and CLI tools—and I’m always chasing the next big DevOps win! 💪
+I’m a **Senior Cloud Infrastructure Engineer** at Accenture in Bratislava, with **over 2 years** of hands-on experience building and automating scalable cloud platforms. I love turning manual workflows into clean and efficient automations and I’m always chasing the next big DevOps win! Currently dabbling in Kubernetes and getting my professional AWS Certificate! 💪 
 
 ---
 
