@@ -40,7 +40,7 @@ I’m a **Senior Cloud Infrastructure Engineer** at Accenture in Bratislava, wit
 ## 📜 Certifications
 
 - 🎯 Certified Kubernetes Administrator - CKA (In Progress, expected 2025)
-- 🎯 AWS Certified DevOps Engineer – Professional (In Progress, expected 2025)
+- ✅ AWS Certified DevOps Engineer – Professional (2025)
 - ✅ AWS Certified Developer – Associate (2024)  
 - ✅ AWS Certified Solutions Architect – Associate (2023)  
 - ✅ AWS Certified Cloud Practitioner (2023)  
