@@ -37,7 +37,7 @@ I’m a **Senior Cloud Infrastructure Engineer** at Accenture in Bratislava, wit
 
 - **Programming & Scripting:** Python (Advanced), Bash (Advanced), JavaScript (Proficient)
 - **Cloud & Infra:** AWS (Expert), Terraform (Intermediate)
-- **Containers & Orchestration:** Docker (Intermediate), Kubernetes (Foundational)
+- **Containers & Orchestration:** Docker (Intermediate), Podman (Intermediate), Kubernetes (Foundational)
 - **DevOps & Automation:** CI/CD (GitLab CI/CD, AWS CodePipeline, GitHub Actions, Jenkins), Git, Ansible (Intermediate)
 - **OS & Networking:** Linux (RedHat, Ubuntu, Debian)
 - **Monitoring & Observability:** Splunk (Foundational), Prometheus (Foundational), Grafana (Foundational)
