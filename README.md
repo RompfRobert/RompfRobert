@@ -9,7 +9,7 @@
 
 # Hi, I’m Robert 👋
 
-### 🚀 Senior Cloud Infrastructure Engineer | DevOps Engineer | Linux System Administrator
+### 🚀 Senior DevOps Engineer | Cloud Infrastructure Engineer | Linux System Administrator
 
 DevOps / Cloud Engineer focused on building and operating reliable AWS platforms. Experienced in infrastructure design and delivery, RHEL administration, ITSM/incident workflows, IaC with Terraform, and dabbling in Kubernetes. Strong automation mindset with a practical, production-first approach to stability, security, and continuous improvement 💪 
 
@@ -65,7 +65,7 @@ DevOps / Cloud Engineer focused on building and operating reliable AWS platforms
 - English (Native) 🇬🇧
 - Hungarian (Native) 🇭🇺  
 - Slovak (Native) 🇸🇰  
-- Czech (Conversational) 🇨🇿  
+- Czech (Fluent) 🇨🇿  
 - German (B1 in progress) 🇩🇪  
 
 ## 📫 Connect With Me
