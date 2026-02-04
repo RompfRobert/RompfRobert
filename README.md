@@ -11,7 +11,7 @@
 
 ### 🚀 Senior Cloud Infrastructure Engineer | DevOps Engineer | Linux System Administrator
 
-I’m a **Senior Cloud Infrastructure Engineer** at Accenture in Bratislava, with **over 3 years** of hands-on experience building and automating scalable cloud platforms. I love turning manual workflows into clean and efficient automations and I’m always chasing the next big DevOps win! Currently dabbling in Kubernetes and getting my professional AWS Certificate! 💪 
+DevOps / Cloud Engineer focused on building and operating reliable AWS platforms. Experienced in infrastructure design and delivery, RHEL administration, ITSM/incident workflows, IaC with Terraform, and dabbling in Kubernetes. Strong automation mindset with a practical, production-first approach to stability, security, and continuous improvement 💪 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RompfRobert&show_icons=true&theme=dark" alt="Robert's GitHub stats" />
@@ -20,9 +20,12 @@ I’m a **Senior Cloud Infrastructure Engineer** at Accenture in Bratislava, wit
 
 ## 💼 Experience Highlights
 
-- **DevOps Engineer**, Tietoevry (09/2025 – Present)
-  - A new adventure awaits
-
+- **Senior DevOps Engineer**, Vivicta (09/2025 – Present)
+  - Designed and built standardized Terraform modules for AWS resources, enabling fast, consistent onboarding of new AWS clients and reducing infrastructure setup effort across projects.
+  - Developed an event-driven incident automation workflow using CloudWatch Alarms and EventBridge, automatically opening incidents in ServiceNow when alarms trigger and auto-closing them when alarms return to OK, eliminating manual incident handling.
+  - Served as the dedicated AWS specialist for the team, providing guidance on cloud architecture, automation, and best practices across client environments.
+  - Handled incident management and service requests related to AWS infrastructure and Linux systems, including troubleshooting, root-cause analysis, and remediation.
+  
 - **Senior Cloud Infrastructure Engineer**, Accenture (12/2024 – 09/2025)  
   - Built a custom AWS CLI tool that consolidated multiple automation scripts, now used cross-functionally by multiple teams.
   - Automated multiple complicated processes like EC2 decommissioning, Disaster Recovery Template Generation and more.
@@ -35,11 +38,11 @@ I’m a **Senior Cloud Infrastructure Engineer** at Accenture in Bratislava, wit
 
 ## 🔧 Technical Skills
 
-- **Programming & Scripting:** Python (Advanced), Bash (Advanced), JavaScript (Proficient)
-- **Cloud & Infra:** AWS (Expert), Terraform (Intermediate)
-- **Containers & Orchestration:** Docker (Intermediate), Podman (Intermediate), Kubernetes (Foundational)
+- **Programming & Scripting:** Python (Advanced), Bash (Advanced), JavaScript (Intermediate)
+- **Cloud & Infra:** AWS (Expert), Terraform (Advanced)
+- **Containers & Orchestration:** Docker (Intermediate), Podman (Intermediate), Kubernetes (Intermediate)
 - **DevOps & Automation:** CI/CD (GitLab CI/CD, AWS CodePipeline, GitHub Actions, Jenkins), Git, Ansible (Intermediate)
-- **OS & Networking:** Linux (RedHat, Ubuntu, Debian)
+- **OS & Networking:** Linux (RedHat, Ubuntu, Debian) - Advanced
 - **Monitoring & Observability:** Splunk (Foundational), Prometheus (Foundational), Grafana (Foundational)
 
 ## 🎓 Education
@@ -63,7 +66,7 @@ I’m a **Senior Cloud Infrastructure Engineer** at Accenture in Bratislava, wit
 - Hungarian (Native) 🇭🇺  
 - Slovak (Native) 🇸🇰  
 - Czech (Conversational) 🇨🇿  
-- German (B1) 🇩🇪  
+- German (B1 in progress) 🇩🇪  
 
 ## 📫 Connect With Me
 
